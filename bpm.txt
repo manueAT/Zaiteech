@@ -9,3 +9,5 @@ file://localhost/C:/Users/ALFREDO/Documents/Downloads/Documents/BPM-III.pdf
 file://localhost/D:/Alfredo/UAP/IX%20Ciclo/Proyectos%20de%20sistema%20de%20informacion%20I/bpm/trabajos%20basados%20en%20bpm/bpm%20origen%20y%20evolucion.pdf
 http://www.club-bpm.com/Noticias/not00530.htm
 http://www.club-bpm.com/Noticias/not00551.htm
+
+informacion adicional
